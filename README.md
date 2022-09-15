@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarNepNep
-- 👀 I’m interested in Maching learning, data science and software engineering
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Maching learning, embedded systems and software engineering
+- 🌱 I’m currently learning machine learning, embedded systems
 - 💞️ I’m looking to collaborate on music, video games and robotics
 - 📫 How to reach me ...
 
